@@ -1,12 +1,12 @@
 {
-  "name": "YASIYA-MD",
-  "description": "Yasiya-MD is a powerful and user-friendly WhatsApp multi-device bot built with Baileys. 🤖",
+  "name": "SADESHA-MD",
+  "description": "SADESHA-MD is a powerful and user-friendly WhatsApp multi-device bot built with Baileys. 🤖",
   "logo": "https://raw.githubusercontent.com/DarkYasiyaNew/DARKYASIYA-DATABASE/main/MEDIA/IMAGE/yasiya-md.jpg",
   "keywords": ["whatsapp user bot", "user bot", "nodejs", "bot", "whatsapp bot", "multi device", "yasiya-md"],
   "success_url": "/",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "YASIYA-MD~lQJygD4R#YnjkVLbabEO7D8dyDk1udBsWHfpEgD4-5y9D9G-i_Iw",
       "required": true
     }
   },
